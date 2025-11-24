@@ -36,6 +36,15 @@ In this course, you will:
 3. Open a pull request
 4. Merge your pull request
 
+### 📚 Beginner Resources / Ressources pour Débutants
+
+New to GitHub? Check out these helpful guides:
+
+- **[Beginner's Guide (Français/English)](GUIDE-DEBUTANT.md)** - A simple, step-by-step explanation of GitHub concepts with examples in both French and English
+- **[Profile Example (Français/English)](EXEMPLE-PROFIL.md)** - A template file you can use to practice creating and editing files on GitHub
+
+These resources explain GitHub concepts in simple terms, perfect for your first day!
+
 ### How to start this course
 
 <!-- For start course, run in JavaScript:
