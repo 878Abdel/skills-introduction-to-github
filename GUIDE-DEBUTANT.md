@@ -4,10 +4,11 @@
 
 ### Qu'est-ce que GitHub ?
 
-GitHub est comme un **Google Drive pour le code**. C'est un endroit où vous pouvez :
+GitHub est comme un **Google Drive pour le code**, mais en beaucoup mieux ! C'est un endroit où vous pouvez :
 - Sauvegarder votre code en ligne
 - Collaborer avec d'autres personnes
-- Suivre toutes les modifications de votre projet
+- Suivre **chaque modification** avec un historique complet (qui a changé quoi, quand et pourquoi)
+- Créer des versions parallèles (branches) pour expérimenter sans risque
 
 ### Concepts de Base
 
@@ -97,10 +98,11 @@ git pull
 
 ### What is GitHub?
 
-GitHub is like **Google Drive for code**. It's a place where you can:
+GitHub is like **Google Drive for code**, but much more powerful! It's a place where you can:
 - Save your code online
 - Collaborate with other people
-- Track all changes to your project
+- Track **every change** with complete history (who changed what, when, and why)
+- Create parallel versions (branches) to experiment safely
 
 ### Basic Concepts
 
